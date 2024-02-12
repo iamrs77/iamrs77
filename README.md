@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [github.com/iamrs77](github.com/iamrs77)
 
