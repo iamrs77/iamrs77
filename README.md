@@ -13,7 +13,7 @@
 
 ### 🏆 Certification  
 <a href="https://www.credly.com/badges/b8cf68c0-d934-4aeb-9c36-709c631203b0/">
-  <img src="https://drive.google.com/file/d/1j6KbfPFCOoIJYuy1LF22XUCXTMxt0ed_/view?usp=sharing" alt="AWS Certified Developer – Associate" width="120"/>
+  <img src="https://drive.google.com/uc?export=view&id=1j6KbfPFCOoIJYuy1LF22XUCXTMxt0ed_" alt="AWS Certified Developer – Associate" width="120"/>
 </a>
 
 <h3 align="left">Connect with me:</h3>
