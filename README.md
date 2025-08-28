@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h1 align="center">Hi, I'm Rohit Sharma</h1>
+<h3 align="center">Full-Stack Software Engineer | React • Node.js • SQL | AWS Certified Developer</h3>
 
-- 🔭 I’m currently working on **Next.js**
+### 👨‍💻 About Me  
+- 💼 Full-stack software engineer with **3+ years of experience** building scalable applications using **React.js, Node.js, Express, and SQL, NoSQL**  
+- 🔭 Currently working at **Mi9 Retail Inc.** (Toronto, Canada) on enterprise-grade merchant solutions   
+- 🏆 **AWS Certified Developer – Associate**  
+- 💬 Ask me about **MERN stack, SQL optimization, system design, and scalable APIs**  
+- 📫 Reach me at: **rohit227sharma@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/15sjsZu1CLEzfT5DVMGtRb3MwujdwoBJP/view?usp=sharing)  
 
-- 🌱 I’m currently learning **Next.js**
+---
 
-- 👨‍💻 All of my projects are available at [github.com/iamrs77](github.com/iamrs77)
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **rohit227sharma@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KUE-XPE-cblvPZe0jgYL82lRG0_nYzIn/view?usp=sharing](https://drive.google.com/file/d/1KUE-XPE-cblvPZe0jgYL82lRG0_nYzIn/view?usp=sharing)
-
-- ⚡ Fun fact **I am React Developer but in 3 years I have worked on more tech stacks than I did in my whole life**
+### 🏆 Certification  
+<a href="https://www.credly.com/badges/b8cf68c0-d934-4aeb-9c36-709c631203b0/">
+  <img src="https://images.credly.com/size/340x340/images/1c7e1e07-8a54-4f1d-9c39-d3202b3c5d42/image.png" alt="AWS Certified Developer – Associate" width="120"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
