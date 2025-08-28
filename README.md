@@ -13,6 +13,7 @@
 
 ### 🏆 Certification  
 [AWS Certified Developer – Associate](https://www.credly.com/badges/b8cf68c0-d934-4aeb-9c36-709c631203b0/)
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
