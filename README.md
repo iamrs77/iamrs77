@@ -21,6 +21,6 @@
 <a href="https://www.linkedin.com/in/rohit-sharma-rsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-sharma-411a20125" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrs77&show_icons=true&locale=en&layout=compact" alt="iamrs77" /></p>
+### Summary of my GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrs77&show_icons=true&locale=en" alt="iamrs77" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrs77&show_icons=true&locale=en&layout=compact" alt="iamrs77" /></p>
