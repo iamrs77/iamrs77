@@ -12,21 +12,15 @@
 ---
 
 ### 🏆 Certification  
-<p>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- space between image and text -->
-  <a href="https://www.credly.com/badges/b8cf68c0-d934-4aeb-9c36-709c631203b0/" target="_blank">
-    AWS Certified Developer – Associate
-  </a>
-</p>
+[AWS Certified Developer – Associate](https://www.credly.com/badges/b8cf68c0-d934-4aeb-9c36-709c631203b0/)
+
+### Summary of my GitHub
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrs77&show_icons=true&locale=en&layout=compact" alt="iamrs77" /></p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-sharma-rsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-sharma-411a20125" height="30" width="40" /></a>
 </p>
-
-### Summary of my GitHub
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrs77&show_icons=true&locale=en&layout=compact" alt="iamrs77" /></p>
