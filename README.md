@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | React • Node.js • SQL | AWS Certified Developer</h3>
 
 ### 👨‍💻 About Me  
-- 💼 Full-stack software engineer with **3+ years of experience** building scalable applications using **React.js, Node.js, Express, and SQL, NoSQL**  
+- 💼 Full-stack software engineer with **4+ years of experience** building scalable applications using **React.js, Node.js, Express, and SQL, NoSQL**  
 - 🔭 Currently working at **Mi9 Retail Inc.** (Toronto, Canada) on enterprise-grade merchant solutions   
 - 🏆 **AWS Certified Developer – Associate**  
 - 💬 Ask me about **MERN stack, SQL optimization, system design, and scalable APIs**  
