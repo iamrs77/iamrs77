@@ -7,7 +7,7 @@
 - 🏆 **AWS Certified Developer – Associate**  
 - 💬 Ask me about **MERN stack, SQL optimization, system design, and scalable APIs**  
 - 📫 Reach me at: **rohit227sharma@gmail.com**  
-
+- 📫 portfolio: **https://rohitsharmaportfolio.vercel.app/**
 ---
 
 ### 🏆 Certification  
